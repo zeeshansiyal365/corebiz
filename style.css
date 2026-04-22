@@ -1,0 +1,144 @@
+.navbar-container{
+    margin:10px 7% ; 
+}
+.journey-btn{
+    background-color: rgb(9, 148, 125);
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+}
+.box-growth{
+    height: 65px; width: 65px;
+    background-color: rgb(230, 244, 242);
+    color: rgb(9, 148, 125);
+}
+.firstHero{
+    margin-bottom: 100px !important;
+}
+
+/* .qualities-section{
+background-color: rgb(247, 251, 250);
+} */
+ .creative-design{
+    background-color: rgb(247, 251, 250);
+ }
+ .qualities{
+    min-height: 350px;
+    height: auto;
+    margin-bottom: 7%;
+    margin-top: 140px; 
+ }
+.creative-design{
+    padding:80px 0;
+}
+.creative-design i {
+    font-size: 30px;
+}
+.creative-design .qualities-section-box{
+    padding: 60px;
+    background-color: #fff;
+    border-radius: 5px;
+
+} 
+.line{
+    height: 1px;
+    width: 200px;
+    background-color: gray;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line::before{
+    content: "";
+    position: absolute;
+    height: 4px;
+    width: 80px;
+    background-color:rgb(9, 148, 125);
+    border-radius: 5px;
+}
+.year-of-excellence div{
+    width: 73px;
+
+}
+.year-of-excellence {
+    gap:0 150px;
+}
+.helloimage{
+    height: 100%;
+}
+.continuous-learning{
+    margin: 150px 0;
+}
+.growth-line{
+    height: 3px;
+    width: 300px;
+    background-color: gray;
+    position: relative;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+}
+.growth-line::before{
+    content: "";
+    height: 5px;
+    width: 92%;
+    border-radius: 6px;
+    background-color: rgb(9, 148, 125);
+}
+.Frontend-Development i{
+    font-size: 40px;
+}
+.Professional{
+    color: rgb(9, 148, 125);
+}
+.properties-session{
+    border-bottom:2px dotted gray ;
+}
+.buttons button {
+padding: 10px 20px;
+border-radius: 35px;
+border: 1px solid gray;
+transition: .3s ease;
+margin: 8px;
+}
+button:hover{
+    color:rgb(9, 148, 125) ;
+    background-color:rgb(218, 243, 239) ;
+}
+.Essential-Tools{
+    margin: 100px 0;
+}
+.Global-Partners .col-lg-6{
+    border: 1px solid rgb(236, 232, 232);
+    padding: 20px 0;
+
+}
+.numberK{
+    color:rgb(9, 148, 125)  ;
+
+}
+.Global-Partners-Line{
+    height: 1px;
+    width: 50px;
+    background-color: rgb(9, 148, 125);
+    margin: 0 auto;
+}
+.Industry-Recognition{
+    border: 1px solid  rgb(9, 148, 125);
+    padding: 20px 0;
+}
+.industry-award{
+    color: rgb(9, 148, 125);
+}
+.footer .bi-chevron-right{
+    color:rgb(9, 148, 125) ;
+}
+.BootstrapMade{
+    color:rgb(9, 148, 125)
+}
+.footer{
+    background-color: footer;
+}
